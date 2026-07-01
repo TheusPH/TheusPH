@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Ciência da Computação | 18 anos<br>💻 Desenvolvedor Front-end em Formação<br>🧠 Habilidades: HTML5, CSS3, JavaScript, React e Tailwind<br>🚀 Em Aprendizado: MySQL e MongoDB<br>🌍 English (Intermediate – Cambridge certified)<br>⭐ Buscando ativamente a primeira oportunidad</p>
+<p align="left">🎓 Estudante de Ciência da Computação | 20 anos<br>💻 Desenvolvedor Front-end em Formação<br>🧠 Habilidades: HTML5, CSS3, JavaScript, React e Tailwind<br>🚀 Em Aprendizado: MySQL e MongoDB<br>🌍 English (Intermediate – Cambridge certified)<br>⭐ Buscando ativamente a primeira oportunidad</p>
 
 ###
 
